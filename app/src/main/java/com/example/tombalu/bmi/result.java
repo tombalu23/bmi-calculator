@@ -40,7 +40,7 @@ public class result extends AppCompatActivity {
 
         else if(bm>=30)
         {
-            bmi="Obese";
+            bmi="Obese :(";
         }
 
 
